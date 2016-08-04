@@ -1,0 +1,20 @@
+{
+  "name": "react-examples",
+  "version": "1.0.0",
+  "description": "1  state-props.js 举例说明state与props之间的关系，state与props之间没有关系，    props只是父组件传递过来的属性，与状态无关，并且props的值不能进行修改",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhl221/react-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhl221/react-examples/issues"
+  },
+  "homepage": "https://github.com/yhl221/react-examples#readme"
+}
